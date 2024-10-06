@@ -9,3 +9,5 @@ https://www.figma.com/design/b1GUtY01EroXRlBd9rPcuW/E-Commerce-UI-Kit-(Community
 https://www.shopbase.com/blog/vn/dropshipping-va-affiliate.html#1_Dropshipping_va_Affiliate_Marketing_la_gi Lý thuyết MMO
 https://www.investopedia.com/terms/e/ecommerce.asp e-commerce
 
+## Khảo sát
+https://drive.google.com/drive/folders/1JR3ch2ODS9H9lxW1YnaeGqra-F-Ul1h7
