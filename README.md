@@ -11,3 +11,6 @@ https://www.investopedia.com/terms/e/ecommerce.asp e-commerce
 
 ## Khảo sát
 https://drive.google.com/drive/folders/1JR3ch2ODS9H9lxW1YnaeGqra-F-Ul1h7
+
+## Đặc tả
+https://docs.google.com/spreadsheets/d/1UCxSSaZUR5hWpLo0l6y6577Qq-9AOs8BPdcuEjkINns/edit?gid=0#gid=0
