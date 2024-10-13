@@ -14,3 +14,6 @@ https://drive.google.com/drive/folders/1JR3ch2ODS9H9lxW1YnaeGqra-F-Ul1h7
 
 ## Đặc tả
 https://docs.google.com/spreadsheets/d/1UCxSSaZUR5hWpLo0l6y6577Qq-9AOs8BPdcuEjkINns/edit?gid=0#gid=0
+
+## Cơ sử dữ liệu
+https://docs.google.com/document/d/1bpqmcY47Ik32b2lx-dqxdTDhqvc0e-PUq2PIIFyhkAs/edit?tab=t.0
